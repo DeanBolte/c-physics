@@ -1,5 +1,2 @@
-# vs code ignores
-.vscode
-
 # debugging and compiling
 *.exe
