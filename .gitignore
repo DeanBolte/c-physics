@@ -1,5 +1,5 @@
 # vs code ignores
-/.vscode
+.vscode
 
 # debugging and compiling
-program.exe
+*.exe
